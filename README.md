@@ -14,7 +14,7 @@ To use the scripts in this repository, ensure you have the following:
 
 ### How to Use
 
-* Clone the repository: git clone https://github.com/yourusername/your-repo.git
+* Clone the repository: git clone https://github.com/pauljebastin/powershell.git
 * Navigate to the script directory: cd your-repo
 * Run the desired script: ./scriptname.ps1
 * Some scripts may require parameters. Refer to the script documentation.
@@ -31,7 +31,7 @@ We welcome contributions! To contribute:
 
 ### Issues & Support
 
-If you encounter issues or have feature requests, please open an issue in the [Issues](https://github.com/yourusername/your-repo/issues) section.
+If you encounter issues or have feature requests, please open an issue in the [Issues]([https://github.com/pauljebastin/PowerShell/issues]) section.
 
 ## License
 
