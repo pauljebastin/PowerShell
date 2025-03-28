@@ -8,11 +8,9 @@ This repository contains a collection of PowerShell scripts designed to automate
 
 To use the scripts in this repository, ensure you have the following:
 
-Windows PowerShell 5.1 or later / PowerShell Core
-
-Administrator privileges (if required by certain scripts)
-
-Required modules (mentioned in individual script documentation)
+* Windows PowerShell 5.1 or later / PowerShell Core
+* Administrator privileges (if required by certain scripts)
+* Required modules (mentioned in individual script documentation)
 
 ### How to Use
 
