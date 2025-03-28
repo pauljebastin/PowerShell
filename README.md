@@ -33,20 +33,6 @@ We welcome contributions! To contribute:
 
 If you encounter issues or have feature requests, please open an issue in the [Issues](https://github.com/yourusername/your-repo/issues) section.
 
-## **Available Scripts**
-
-### System Administration
-
-SystemInfo.ps1 – Retrieves system details and resource usage
-DiskCleanup.ps1 – Automates disk cleanup and optimization
-UserManagement.ps1 – Manages local users and groups
-
-### Network & Security
-
-FirewallRules.ps1 – Configures Windows Firewall rules
-PortScanner.ps1 – Scans open ports on a specified network
-EventLogMonitor.ps1 – Monitors Windows Event Logs for security events
-
 ## License
 
 This project is licensed under the MIT License.
